@@ -1,10 +1,26 @@
 ---
-title: "李宇琛：兰州警方跨省抓了一群写小说的女大学生" 
+title: "Editorial: Lanzhou Police Cross Provinces to Arrest a Group of Female College Students Writing Novels" 
 date: "2025-06-01"
-tags: ["comments","转载"] 
+tags: ["editorial","repost"] 
 ---
 
 Translated from [李宇琛：兰州警方跨省抓了一群写小说的女大学生](https://freewriters-haitang.github.io/posts/000030-liyuchen/)
+
+Translator’s note: China Digital Times (CDT; Chinese: 中国数字时代) is a California-based 501(c)(3) organization that runs a bilingual news website covering China.
+
+**\[404 Archive\] Li Yuchen’s Chronicles of the Absurd | Lanzhou Police Cross Provinces to Arrest a Group of Female College Students Writing Novels**
+
+**June 1, 2025**  
+ **CDT Archive Card**  
+ **Title:** Lanzhou Police Cross Provinces to Arrest a Group of Female College Students Writing Novels  
+ **Author:** Li Yuchen  
+ **Date of Publication:** June 1, 2025  
+ **Source:** WeChat public account "Li Yuchen’s Chronicles of the Absurd"  
+ **Category:** Deep-Sea Fishing  
+ **CDT Collection:** Citizens’ Pavilion  
+ **Copyright Notice:** This work belongs to the original author. China Digital Times archives it only to counter internet censorship in China. For detailed copyright information, see our notice.
+
+---
 
 **Written by Li Yuchen**
 
