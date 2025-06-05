@@ -9,7 +9,7 @@ for other languages
 
 - Introduction - to do
 - [Campaign Flyer](https://freewriters-haitang.github.io/english/posts/000010-flyer/): the freedom from fear
-- [Poster Picutres](https://freewriters-haitang.github.io/posts/000013-pictures/)
+- [Poster Picutres](https://drive.google.com/drive/folders/1L7DVBRrGF58aoiCjGhzfGGYSJiXadpT4)
 - [Media Reports, Narratives, and Comments](https://freewriters-haitang.github.io/posts/000015-reports/)
 
 ### To stay informed, follow us on 
