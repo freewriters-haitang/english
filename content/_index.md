@@ -12,10 +12,10 @@ for other languages
 - [Poster Picutres](https://drive.google.com/drive/folders/1L7DVBRrGF58aoiCjGhzfGGYSJiXadpT4)
 - [Media Reports, Narratives, and Comments](https://freewriters-haitang.github.io/posts/000015-reports/)
 
-### To stay informed, follow us on 
+#### To stay informed, follow us on 
 
 - Fediverse/Mastodon: [@Phoenix093@mastodon.social](https://mastodon.social/@Phoenix093)
 - Instagram: [@freewritersofhaitang](https://www.instagram.com/freewritersofhaitang/)
 - Website: [https://freewriters-haitang.github.io](https://freewriters-haitang.github.io)
 
-or [submit your feedback](https://cryptpad.fr/form/#/2/form/view/11rS9aG2ilfoe+J-17tKLUWYAdmn03XSze1HJ75zdOY/).
+If you wish to join our campaign, you could also send an E-mail to: [p.fictionishumanright@gmail.com](mailto:p.fictionishumanright@gmail.com)
