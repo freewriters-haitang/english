@@ -21,9 +21,9 @@ minify:
 
 menu:
   main:
-    - name: About
-      url: about/
-      weight: 5
+#    - name: About
+#      url: about/
+#      weight: 5
     - name: Articles
       url: archives
       weight: 15
