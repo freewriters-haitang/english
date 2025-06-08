@@ -1,5 +1,3 @@
-000018-narratives.md
-
 ---
 title: "Narratives and situation from the involved people" 
 date: "2025-06-08"
