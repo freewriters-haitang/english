@@ -11,7 +11,7 @@ for other languages
 - [Campaign Flyer](https://freewriters-haitang.github.io/english/posts/000010-flyer/): the freedom from fear
 - [Poster Picutres](https://drive.google.com/drive/folders/1L7DVBRrGF58aoiCjGhzfGGYSJiXadpT4)
 - [Media Reports, Narratives, and Comments](https://freewriters-haitang.github.io/english/posts/000015-reports/)
-- [Narratives and situation from the involved people](https://freewriters-haitang.github.io/posts/000018-narratives/)
+- [Narratives and situation from the involved people](https://freewriters-haitang.github.io/english/posts/000018-narratives/)
 
 #### To stay informed, follow us on 
 
