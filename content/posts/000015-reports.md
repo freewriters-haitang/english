@@ -12,6 +12,10 @@ tags: ["resource", "media", "narravive", "repost"]
 
 2020.11 [The Paper 澎湃新闻](https://freewriters-haitang.github.io/english/posts/000080-thepaper-20201106/): Mo Xiang Tong Xiu Reportedly Sentenced to Three Years — Is This the End of the Golden Era for Danmei Adaptations?
 
+### Research Articles
+
+2025.3.19 [Liang Ge](https://freewriters-haitang.github.io/english/posts/000320-liangge/): The Haitang Incident 2024 and the ugliness of danmei culture/industry
+
 ### Editorial Comments
 
 2025.6.1 [Li Yuchen](https://freewriters-haitang.github.io/english/posts/000030-liyuchen/): Lanzhou Police Cross Provinces to Arrest a Group of Female College Students Writing Novels
