@@ -24,11 +24,11 @@ Since last year, the targets of this enforcement model have expanded beyond busi
 
 ### **The Shrimp Among the Nets: Rent-Seeking at Multiple Levels**
 
-*Heavy charges mask deep misalignments and absurdities.*
+> Heavy charges mask deep misalignments and absurdities.
 
 Haitang Literature City is an online fiction platform run by Taiwan’s Longma Publishing. It features mostly R18 erotica for female readers, including (hetero)romance and danmei (BL). As mainland platforms have increasingly banned female-centric erotic content—forcing most writers to limit writing to “pure love” and avoid anything “below the neck”—mainland writers and readers have flocked to Haitang, whose servers are overseas.
 
-The site is semi-hidden, clearly marked “No Minors Allowed,” and text-based only—an obscure, niche platform that readers rarely stumble upon accidentally. Yet in June 2024, police from Jingxi, a county-level city in Anhui, began arresting more than 50 authors publishing on Haitang. They were charged with producing and distributing obscene materials for profit.
+The site is semi-hidden, clearly marked “No Minors Allowed,” and text-based only—an obscure, niche platform that readers rarely stumble upon accidentally. Yet in June 2024, police from Jingxi, a county-level city in Anhui, began arresting more than 50 authors publishing on Haitang. They were charged with **producing and distributing obscene materials for profit**.
 
 Two payment agents who handled deposits and withdrawals were arrested for “aiding cybercrime.” Police reportedly presented full transaction records collected from these agents. The case moved quickly, with most defendants sentenced by December. Once authors and families took to the internet for help, holes in the case emerged. According to court documents, a witness named **Wang Junyi** allegedly accessed the site via a redirected ad link, spent 3.8 yuan (less than a dollar \- Translator’s note), and discovered the site was full of pornography—prompting him to report it to Jingxi police.
 
@@ -40,7 +40,7 @@ If one dares speculate, the trial took place in Xuancheng, Anhui—a less-develo
 
 Because web fictions for female readers have enjoyed wide readership, and victims and families spoke out online, the case sparked public outcry. Yet criticism did not change the outcome—all adult authors received criminal records.
 
-After the “deep-sea fishing” incident of 2024, the big fish were convicted and imprisoned. Haitang temporarily shut down, then reopened. Some authors resumed writing—as if nothing had happened. But this year, a darker sequel emerged: since April, authors across China, including some who had deleted accounts after the Jingxi arrests, were contacted by **Lanzhou police**. They were summoned for questioning and detention over the same charge: profiting from obscene material.
+After the “deep-sea fishing” incident of 2024, the big fish were convicted and imprisoned. Haitang temporarily shut down, then reopened. Some authors resumed writing—as if nothing had happened. But this year, a darker sequel emerged: since April, authors across China, including some who had deleted accounts after the Jingxi arrests, were contacted by **Lanzhou police**. They were summoned for questioning and detention over the same charge: **profiting from obscene material**.
 
 Hundreds of authors are reportedly affected, mostly small-time writers with little income, low readership, and only a few works. They were the “small fry” left behind in the previous raid—assumed safe, but now under Lanzhou Police's net.
 
@@ -54,7 +54,7 @@ As of this writing, some authors have reportedly negotiated plea deals in exchan
 
 ### **Crushing the Softest Targets**
 
-To those with power to define artistic value, the only explanation for these works is moral deviation: a twisted view of sex, stemming from a lack of "normal heterosexual life," that results in "perverted" erotica.
+> To those with power to define artistic value, the only explanation for these works is moral deviation: a twisted view of sex, stemming from a lack of "normal heterosexual life," that results in "perverted" erotica.
 
 Power targets the weak. "Deep-sea fishing" follows the same logic.
 
@@ -80,7 +80,7 @@ In other words, from the perspective of the only group currently authorized to e
 
 **Haitang Literature: A Target of the “Clean Up the Internet” Campaign**
 
-*To law enforcement, this fast-growing creative safe haven is a fattened pig ready for slaughter.*
+> To law enforcement, this fast-growing creative safe haven is a fattened pig ready for slaughter.
 
 Moreover, Haitang Literature City, the platform targeted by the Jixi and Lanzhou police, was already a soft target in the female-oriented web literature scene—a direct victim of China's “clean up the internet” actions.
 
@@ -100,7 +100,7 @@ A stark contrast: in late 2024, Jinjiang Literature City, based in Beijing, push
 
 **The Suffering of the Working Class**
 
-This isn’t a collective performance of victimhood. Erotic fiction—and most genre fiction— especially attracts creators from the working class because it's simple, formulaic, accessible to newcomers, and can generate solid income.
+> This isn’t a collective performance of victimhood. Erotic fiction—and most genre fiction— especially attracts creators from the working class because it's simple, formulaic, accessible to newcomers, and can generate solid income.
 
 What sparks righteous outrage is that when the hammer of the law comes down, it smashes those already the most fragile. The online writers crying for help are mostly young, socially inexperienced, economically vulnerable, and lacking in malicious intent—a quasi-underclass. Even among the high-profile fined authors—like “Far Above the White Clouds,”(远上白云间) “Ci Qian,”（辭奺） “Momo,” and “Open Mouth Eat Meat”（张嘴吃肉）—many have disclosed painful personal circumstances and appealed publicly to raise money for their fines.
 
@@ -120,7 +120,7 @@ Yet in China, being convicted and having a criminal record can destroy that life
 
 **Protect the Eggs, Protect Life**
 
-The real threat is not the fleeting pleasures of fictional sex—it’s the growing public distrust in law and justice.
+> The real threat is not the fleeting pleasures of fictional sex—it’s the growing public distrust in law and justice.
 
 Even if one concedes the illegality of writing erotica under current law, administrative penalties or community service would be far more appropriate than stacking heavy criminal charges. But in reality, neither the spirit of compassion in traditional Chinese legal culture nor the “law enforcement for the people” ideal in today’s ideology is present—only greedy, arbitrary “deep-sea fishing” tactics driven by profit.
 
