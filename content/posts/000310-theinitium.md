@@ -1,5 +1,5 @@
 ---
-title: "Initium Media | Large-Scale Arrests of Haitang Web Novel Authors in Lanzhou: "Deep-Sea Fishing" Targeting the Marginalized and Powerless" 
+title: "Initium Media | Large-Scale Arrests of Haitang Web Novel Authors in Lanzhou: \"Deep-Sea Fishing\" Targeting the Marginalized and Powerless" 
 date: "2025-06-10"
 tags: ["media", "comment", "repost", "piracy", "translation"] 
 ---
