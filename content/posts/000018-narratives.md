@@ -12,7 +12,11 @@ More Chinese articles are listed [here](https://freewriters-haitang.github.io/po
 
 5.16 [Author's narrative](https://freewriters-haitang.github.io/english/posts/000200-p131/): Pseudonym 131
 
+5.29 [Author's narrative](https://freewriters-haitang.github.io/english/posts/000220-p138/): Pseudonym 138
+
 5.30 [Author's narrative](https://freewriters-haitang.github.io/english/posts/000190-p133/): Pseudonym 133
+
+5.30 [Author's narrative](https://freewriters-haitang.github.io/english/posts/000230-p137/): Pseudonym 137
 
 5.30 [Author's narrative](https://freewriters-haitang.github.io/english/posts/000210-p132/): Pseudonym 132
 
