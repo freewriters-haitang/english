@@ -23,11 +23,11 @@ However, the case drawing such attention didn’t really end up helping the vict
 
 These are writers who have published on Haitang Literature City (海棠文学城), a platform with a large female reader base featuring explicit mlm romance, along with a plethora of diverse writings (reminiscent of AO3, but for original work and profiting). Although often criticized for its pulp-fiction quality, Haitang did provide a relatively uncensored platform for many writers in China. This has all changed. The police have acquired personal information of the authors from Haitang, with which they made swift and numerous arrests. These writers are predominantly young women in their 20s and 30s. Many were taken into custody without due process, where they have experienced excessive police brutality. Large fines were demanded, which has thrown many families into bankruptcy. (See [links](https://freewriters-haitang.github.io/english/posts/000018-narratives/) below for a series of victim accounts, translated to English.)
 
-According to legal experts, since Haitang is a website based in Taiwan, it is doubtful that Chinese police have jurisdiction over writers publishing there. The arrests were reportedly made in the name of “obscene materials for profit”, but even those who write for free and those who didn’t write explicit content were  questioned and/or taken into custody. Readers who’re not familiar with Chinese politics might be wondering what exactly the police are trying to achieve by making these arrests. Due to the largely unaccountable police force and a long absence of free press in China, investigative journalism is nearly impossible, but it is widely believed that:
+According to legal experts, since Haitang is a website based in Taiwan, it is doubtful that Chinese police have jurisdiction over writers publishing there. The arrests were reportedly made in the name of “obscene materials for profit”, but even those who write for free and those who didn’t write explicit content were  questioned and/or taken into custody. Readers who’re not familiar with Chinese politics might be wondering what exactly the police are trying to achieve by making these arrests. The reasons might be two-fold:
 
-- The government believes queer literature discourages people from entering heteronormative marriages and thus lowering the birth rate, therefore the writers are being persecuted
+- The government believes queer literature [discourages people from entering heteronormative marriages](https://www.bbc.com/zhongwen/articles/c2e32x7lx01o/simp) and thus lowering the birth rate, therefore the writers are being persecuted
 
-- The provincial government is flat broke and is extorting these writers for money
+- The provincial government is flat broke and is extorting these writers for [money](https://freewriters-haitang.github.io/english/posts/000310-theinitium/)
 
 And this is the story of yet another marginalized group facing persecution.
 
@@ -36,10 +36,10 @@ Now English readers, if you have reached the end of this page, please help us. S
 
 ### Information
 
-- [Campaign Flyer](https://freewriters-haitang.github.io/english/posts/000010-flyer/): the freedom from fear
-- [Poster Picutres](https://drive.google.com/drive/folders/1L7DVBRrGF58aoiCjGhzfGGYSJiXadpT4)
 - [Media Reports, Narratives, and Comments](https://freewriters-haitang.github.io/english/posts/000015-reports/)
 - [Narratives and situation from the involved people](https://freewriters-haitang.github.io/english/posts/000018-narratives/)
+- [Campaign Flyer](https://freewriters-haitang.github.io/english/posts/000010-flyer/): the freedom from fear
+- [Resources](https://drive.google.com/drive/folders/1L7DVBRrGF58aoiCjGhzfGGYSJiXadpT4)
 
 #### To stay informed, follow us on 
 
@@ -47,4 +47,5 @@ Now English readers, if you have reached the end of this page, please help us. S
 - Instagram: [@freewritersofhaitang](https://www.instagram.com/freewritersofhaitang/)
 - Website: [https://freewriters-haitang.github.io](https://freewriters-haitang.github.io)
 
-If you wish to join our campaign, you could also send an E-mail to: [p.fictionishumanright@gmail.com](mailto:p.fictionishumanright@gmail.com)
+If you wish to join our campaign, you could also send an E-mail to: [freehaitangwriters@proton.me](mailto:freehaitangwriters@proton.me)
+
