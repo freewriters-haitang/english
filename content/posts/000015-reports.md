@@ -18,6 +18,8 @@ tags: ["resource", "media", "narrative", "repost"]
 
 6.12 [ABC](https://www.abc.net.au/news/2025-06-12/police-in-china-arrest-female-writers-over-homosexual-novels/105403258) | Police in China arrest female authors of homosexual novels in crackdown on 'boys love' fiction genre
 
+6.13 [Initium Media](https://freewriters-haitang.github.io/english/posts/000380-theinitium/) | The Price of Boys’ Love: A Law Enforcement Storm Targeting Haitang Authors (Translation)
+
 ### Research Articles
 
 2025.3.19 [Liang Ge](https://freewriters-haitang.github.io/english/posts/000320-liangge/) | The Haitang Incident 2024 and the ugliness of danmei culture/industry
