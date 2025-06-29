@@ -20,6 +20,8 @@ tags: ["resource", "media", "narrative", "repost"]
 
 6.13 [Initium Media](https://freewriters-haitang.github.io/english/posts/000380-theinitium/) | The Price of Boys’ Love: A Law Enforcement Storm Targeting Haitang Authors (Translation)
 
+6.28 [New York Times](https://www.nytimes.com/2025/06/28/world/asia/china-boys-love-women.html) | Chinese Police Detain Dozens of Writers Over Gay Erotic Online Novels
+
 ### Research Articles
 
 2025.3.19 [Liang Ge](https://freewriters-haitang.github.io/english/posts/000320-liangge/) | The Haitang Incident 2024 and the ugliness of danmei culture/industry
