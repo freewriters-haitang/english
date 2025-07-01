@@ -22,6 +22,10 @@ tags: ["resource", "media", "narrative", "repost"]
 
 6.28 [New York Times](https://www.nytimes.com/2025/06/28/world/asia/china-boys-love-women.html) | Chinese Police Detain Dozens of Writers Over Gay Erotic Online Novels
 
+6.30 [BBC](https://freewriters-haitang.github.io/english/posts/000450-bbc/) | 'Every word has come back to haunt me': China cracks down on women who write gay erotica
+
+6.30 [Advocate](https://freewriters-haitang.github.io/english/posts/000460-advocate/) | Chinese police arrest dozens of gay erotica writers in pornography crackdown
+
 ### Research Articles
 
 2025.3.19 [Liang Ge](https://freewriters-haitang.github.io/english/posts/000320-liangge/) | The Haitang Incident 2024 and the ugliness of danmei culture/industry
