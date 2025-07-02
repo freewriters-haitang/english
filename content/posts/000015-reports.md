@@ -20,11 +20,15 @@ tags: ["resource", "media", "narrative", "repost"]
 
 6.13 [Initium Media](https://freewriters-haitang.github.io/english/posts/000380-theinitium/) | The Price of Boys’ Love: A Law Enforcement Storm Targeting Haitang Authors (Translation)
 
+6.26 [The Economist](https://www.economist.com/china/2025/06/26/chinese-cops-are-cuffing-erotica) | Chinese cops are cuffing erotica
+
 6.28 [New York Times](https://www.nytimes.com/2025/06/28/world/asia/china-boys-love-women.html) | Chinese Police Detain Dozens of Writers Over Gay Erotic Online Novels
 
 6.30 [BBC](https://freewriters-haitang.github.io/english/posts/000450-bbc/) | 'Every word has come back to haunt me': China cracks down on women who write gay erotica
 
 6.30 [Advocate](https://freewriters-haitang.github.io/english/posts/000460-advocate/) | Chinese police arrest dozens of gay erotica writers in pornography crackdown
+
+6.30 [them](https://freewriters-haitang.github.io/english/posts/000470-them/) | A Wave of Arrests in China Is Targeting Gay Erotica Authors
 
 ### Research Articles
 
