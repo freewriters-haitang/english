@@ -12,13 +12,17 @@ tags: ["resource", "media", "narrative", "repost"]
 
 2020.11 [The Paper 澎湃新闻](https://freewriters-haitang.github.io/english/posts/000080-thepaper-20201106/) | Mo Xiang Tong Xiu Reportedly Sentenced to Three Years — Is This the End of the Golden Era for Danmei Adaptations? (Translation)
 
-2025.6.6 [Caixin Global](https://www.caixinglobal.com/2025-06-09/police-in-northwest-china-detain-writers-of-gay-erotic-fiction-102328679.html) | Police in Northwest China Detain Writers of Gay Erotic Fiction
+2025.5.14 [CUNY](https://blogs.baruch.cuny.edu/intropublishing/?p=2360) | DANMEI, AND THE HAITANG INCIDENT
+
+6.6 [Caixin Global](https://www.caixinglobal.com/2025-06-09/police-in-northwest-china-detain-writers-of-gay-erotic-fiction-102328679.html) | Police in Northwest China Detain Writers of Gay Erotic Fiction
 
 6.10 [Initium Media](https://freewriters-haitang.github.io/english/posts/000310-theinitium/) | Large-Scale Arrests of Haitang Web Novel Authors in Lanzhou: "Deep-Sea Fishing" Targeting the Marginalized and Powerless (Translation)
 
 6.12 [ABC](https://www.abc.net.au/news/2025-06-12/police-in-china-arrest-female-writers-over-homosexual-novels/105403258) | Police in China arrest female authors of homosexual novels in crackdown on 'boys love' fiction genre
 
 6.13 [Initium Media](https://freewriters-haitang.github.io/english/posts/000380-theinitium/) | The Price of Boys’ Love: A Law Enforcement Storm Targeting Haitang Authors (Translation)
+
+6.25 [Global Voice](https://globalvoices.org/2025/06/25/hundreds-of-women-writers-arrested-as-china-extends-crackdown-on-boys-love-fantasies/) | Hundreds of women writers arrested as China extends crackdown on 'Boys` Love' fantasies
 
 6.26 [The Economist](https://freewriters-haitang.github.io/english/posts/000480-economist/) | Chinese cops are cuffing erotica
 
@@ -28,9 +32,19 @@ tags: ["resource", "media", "narrative", "repost"]
 
 6.30 [Advocate](https://freewriters-haitang.github.io/english/posts/000460-advocate/) | Chinese police arrest dozens of gay erotica writers in pornography crackdown
 
-6.30 [them](https://freewriters-haitang.github.io/english/posts/000470-them/) | A Wave of Arrests in China Is Targeting Gay Erotica Authors
+6.30 [them](https://freewriters-haitang.github.io/english/posts/000470-them/) | A Wave of Arrests in China Is Targeting Gay Erotica Authors / [Instagram](https://www.instagram.com/p/DLkYG5guo4K/)
 
 7.2 [BBC](https://www.tiktok.com/@bbcnews/video/7522133239092366614) | TikTok News Video
+
+7.2 [Queer Voice Tonight](https://hotspotsmagazine.com/2025/07/02/china-arrests-dozens-of-lgbtq-erotica-writers-in-growing-crackdown/) | China Arrests Dozens of LGBTQ Erotica Writers in Growing Crackdown
+
+7.2 [Yahoo News](https://uk.news.yahoo.com/gay-erotica-writers-arrested-china-125441834.html) | Gay erotica writers arrested in China amid crackdown on adult content
+
+7.8 [Washington Blade](https://www.washingtonblade.com/2025/07/08/female-writers-arrested-in-chinese-crackdown-on-gay-erotic-fiction/) | Female writers arrested in Chinese crackdown on gay erotic fiction
+
+7.9 [Reuters](https://www.reuters.com/business/media-telecom/china-detains-female-erotica-writers-pornography-crackdown-2025-07-09/) | China detains female erotica writers in pornography crackdown
+
+7.15 [Le Monde](https://www.lemonde.fr/en/international/article/2025/07/15/chinese-police-crack-down-on-young-women-writing-homoerotic-fiction_6743377_4.html) | Chinese police crack down on young women writing homoerotic fiction
 
 ### Research Articles
 
